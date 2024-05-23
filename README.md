@@ -2,8 +2,11 @@
 
 
 > Autor: Nicolas Ros
+
 > Fecha Compilación: 22/5/2024
+
 > Versión: 1.0
+
 > Lenguaje: PowerShell
 
 ## Descripción
